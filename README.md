@@ -1,4 +1,4 @@
-##Olá! Eu Sou Edes Lázaro
+Olá! Eu me chamo Edes Lázaro, sou estudante e entusiasta da área de tecnologia. Veio atuando na área de T.I há 6 anos desenvolvendo habilidades técnicas, mas principalmente as softskills. Hoje sou bolsista do curso de Flutter em parceria com a Nubank e Cubos Academy. Uma curiosidade a meu respeito é que tive meu primeiro empreendimento aos 14 anos de idade.
 <div>
   <a href="https://edeslazaro.com.br">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edesdeveloper&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
